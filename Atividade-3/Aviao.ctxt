@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Aviao
+comment1.params=capacidade\ velocidade\ tipoMotor\ tipo\ comercial
+comment1.target=Aviao(int,\ int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment3.params=
+comment3.target=boolean\ isComercial()
+comment4.params=
+comment4.target=void\ acelerar()
+comment5.params=
+comment5.target=void\ frear()
+comment6.params=tempo
+comment6.target=void\ voar(double)
+numComments=7

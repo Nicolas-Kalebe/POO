@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Losango
+comment1.params=diagonal2\ diagonal1
+comment1.target=Losango(double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getPerimetro()
+comment5.params=
+comment5.target=double\ getdiagonal2()
+comment6.params=
+comment6.target=double\ getdiagonal1()
+comment7.params=diagonal2
+comment7.target=void\ setdiagonal2(double)
+comment8.params=diagonal1
+comment8.target=void\ setdiagonal1(double)
+numComments=9

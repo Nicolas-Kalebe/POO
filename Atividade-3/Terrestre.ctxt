@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Terrestre
+comment1.params=capacidade\ velocidade\ numDeRodas
+comment1.target=Terrestre(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getNumDeRodas()
+numComments=3

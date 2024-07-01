@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aquatico
+comment1.params=capacidade\ velocidade\ tipo
+comment1.target=Aquatico(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+numComments=3
